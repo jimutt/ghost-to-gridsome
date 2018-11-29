@@ -1,0 +1,17 @@
+{
+  "name": "ghost-to-gridsome",
+  "version": "1.0.0",
+  "description": "Crude tool made in order to convert my old Ghost blog posts to Markdown posts to use together with Gridsome",
+  "main": "ghostToGridsome.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.12.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.22.2"
+  }
+}
